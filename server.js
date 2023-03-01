@@ -8,10 +8,6 @@ app.use(logger("dev"));
 app.use(express.json());
 require("dotenv").config();
 
-app.get("/", (req, res) => {
-  res.send("Now listening to Team Manager Backend...");
-});
-
 // database Config
 require("./config/database");
 

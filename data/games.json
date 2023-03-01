@@ -1,0 +1,92 @@
+[
+  {
+    "location": "Sunset Field",
+    "address": "1234 Main St",
+    "date": "2023-03-05",
+    "time": "15:00",
+    "homeTeam": "Wildcats",
+    "awayTeam": "Lions",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Green Meadow Park",
+    "address": "5678 Elm St",
+    "date": "2023-03-10",
+    "time": "17:30",
+    "homeTeam": "Panthers",
+    "awayTeam": "Wildcats",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Wilderness Stadium",
+    "address": "9012 Oak St",
+    "date": "2023-03-15",
+    "time": "19:00",
+    "homeTeam": "Wildcats",
+    "awayTeam": "Eagles",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Thunder Field",
+    "address": "3456 Maple St",
+    "date": "2023-03-20",
+    "time": "14:00",
+    "homeTeam": "Wildcats",
+    "awayTeam": "Dolphins",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Mountain View Stadium",
+    "address": "7890 Pine St",
+    "date": "2023-03-25",
+    "time": "16:30",
+    "homeTeam": "Cougars",
+    "awayTeam": "Wildcats",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Seaside Stadium",
+    "address": "1111 Ocean Ave",
+    "date": "2023-04-01",
+    "time": "14:00",
+    "homeTeam": "Wildcats",
+    "awayTeam": "Stingrays",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Desert Ridge Field",
+    "address": "2222 Cactus Rd",
+    "date": "2023-04-06",
+    "time": "17:30",
+    "homeTeam": "Rattlesn",
+    "awayTeam": "Wildcats",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Meadowlark Park",
+    "address": "3333 Meadowlark Dr",
+    "date": "2023-04-11",
+    "time": "19:00",
+    "homeTeam": "Wildcats",
+    "awayTeam": "Blue Jays",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Thunderbird Field",
+    "address": "4444 Thunderbird Rd",
+    "date": "2023-04-16",
+    "time": "14:00",
+    "homeTeam": "Wildcats",
+    "awayTeam": "Falcons",
+    "team": "63fea553b6be369426d28488"
+  },
+  {
+    "location": "Fox Den Stadium",
+    "address": "5555 Fox Ln",
+    "date": "2023-04-21",
+    "time": "16:30",
+    "homeTeam": "Red Foxes",
+    "awayTeam": "Wildcats",
+    "team": "63fea553b6be369426d28488"
+  }
+]
