@@ -12,7 +12,7 @@ const RecruitSchema = new mongoose.Schema({
   current_team: String,
   notes: String,
   team: {
-    type: Schema.Types.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: "Team",
   },
 });

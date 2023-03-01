@@ -8,7 +8,7 @@ const GameSchema = new mongoose.Schema({
   homeTeam: String,
   awayTeam: String,
   team: {
-    type: Schema.Types.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: "Team",
   },
 });
