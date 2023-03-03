@@ -2,6 +2,11 @@ const express = require("express");
 const logger = require("morgan");
 const cors = require("cors");
 
+const Team = require("./models/TeamModel");
+const Recruit = require("./models/RecruitModel");
+const Player = require("./models/PlayerModel");
+const Game = require("./models/GameModel");
+
 const app = express();
 app.use(cors());
 app.use(logger("dev"));
@@ -10,6 +15,14 @@ require("dotenv").config();
 
 // database Config
 require("./config/database");
+
+app.get("/", async (req, res) => {
+  const teams = await Team.find();
+  const players = await Player.find();
+  const recruits = await Recruit.find();
+  const games = await Game.find();
+  res.json({ data: teams, players, recruits, games });
+});
 
 // routers
 const usersRouter = require("./routes/users");
