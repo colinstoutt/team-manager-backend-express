@@ -7,7 +7,7 @@ const playerSeed = [
     number: 10,
     position: "Quarterback",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Jane",
@@ -17,7 +17,7 @@ const playerSeed = [
     number: 21,
     position: "Wide Receiver",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Tom",
@@ -27,7 +27,7 @@ const playerSeed = [
     number: 32,
     position: "Running Back",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Sarah",
@@ -37,7 +37,7 @@ const playerSeed = [
     number: 44,
     position: "Tight End",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Mike",
@@ -47,7 +47,7 @@ const playerSeed = [
     number: 55,
     position: "Defensive End",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Emily",
@@ -57,7 +57,7 @@ const playerSeed = [
     number: 67,
     position: "Linebacker",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Jacob",
@@ -67,7 +67,7 @@ const playerSeed = [
     number: 78,
     position: "Cornerback",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Ella",
@@ -77,7 +77,7 @@ const playerSeed = [
     number: 90,
     position: "Safety",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Liam",
@@ -87,7 +87,7 @@ const playerSeed = [
     number: 99,
     position: "Defensive Tackle",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Avery",
@@ -97,7 +97,7 @@ const playerSeed = [
     number: 100,
     position: "Offensive Tackle",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Jack",
@@ -107,7 +107,7 @@ const playerSeed = [
     number: 21,
     position: "Quarterback",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Henry",
@@ -117,7 +117,7 @@ const playerSeed = [
     number: 34,
     position: "Running back",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "William",
@@ -127,7 +127,7 @@ const playerSeed = [
     number: 45,
     position: "Wide receiver",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Mason",
@@ -137,7 +137,7 @@ const playerSeed = [
     number: 57,
     position: "Tight end",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Daniel",
@@ -147,7 +147,7 @@ const playerSeed = [
     number: 62,
     position: "Offensive guard",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Alexander",
@@ -157,7 +157,7 @@ const playerSeed = [
     number: 74,
     position: "Center",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Anthony",
@@ -167,7 +167,7 @@ const playerSeed = [
     number: 87,
     position: "Defensive end",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "David",
@@ -177,7 +177,7 @@ const playerSeed = [
     number: 92,
     position: "Defensive tackle",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
   {
     firstName: "Andrew",
@@ -187,7 +187,7 @@ const playerSeed = [
     number: 98,
     position: "Linebacker",
     status: "Active",
-    team: "641a06693942eaa20ba93f4d",
+    team: "6441e0ec3ce3bc6b1174b3c4",
   },
 ];
 

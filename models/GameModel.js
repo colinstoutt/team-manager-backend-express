@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const GameSchema = new mongoose.Schema({
   location: String,
   address: String,
-  date: String,
+  date: { type: Date, default: Date.now },
   time: String,
   homeTeam: String,
   awayTeam: String,
